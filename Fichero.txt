@@ -1,1 +1,7 @@
 Primera Modificación
+<<<<<<< HEAD
+=======
+Segunda Modificación
+Tercera Modificación
+
+>>>>>>> b456618 (Tercera)
