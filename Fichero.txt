@@ -3,5 +3,11 @@ Primera Modificación
 =======
 Segunda Modificación
 Tercera Modificación
+<<<<<<< HEAD
 
 >>>>>>> b456618 (Tercera)
+=======
+Cuarta Modificación
+Quinta Modificación
+Sexta Modificación
+>>>>>>> 392d7df (Sexta Modificación)
